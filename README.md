@@ -111,18 +111,6 @@ php artisan serve
 
 ---
 
-## 📩 Contact Me
-💼 Need a **Full Stack Laravel Developer**? Let's work together!
-
-📧 **Email:** Prajwal.iar@gmail.com  
-📲 **WhatsApp:** +977-9818441226  
-
-🔗 **[Hire Me on Upwork](https://www.upwork.com/freelancers/~01210bb2575a8c05a9)**
-
-### ☕ Support My Work
-If you find this project helpful, consider [buying me a coffee](https://buymeacoffee.com/prajwalrai/support-my-work-complete-laravel-e-commerce-project). Your support helps maintain and improve this project! 🚀
-
----
 
 ## 📜 License
 🔹 This project is **MIT Licensed** – Feel free to use & modify!
